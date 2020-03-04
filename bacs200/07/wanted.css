@@ -1,0 +1,88 @@
+body{
+	background-color:#000;
+	width:1000px;
+	height:700px;
+	}
+#center{
+	background-color:#222;
+	width:800px;
+	height:750px;
+	margin-left:400px;
+	position:fixed;
+
+}
+#topbar{
+	background-color:#eee;
+	margin:20px;
+	position:absolute;
+	width:750px;
+	height:170px;
+	border-radius:20px;
+}
+#topbar h1{
+	text-align:center;
+	font-size:38px;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+	
+}
+#topbar h2{
+	text-align:center;
+	font-size:28px;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+	
+}
+
+#bottombar{
+	background-color:#EEEFCD;
+	margin-top:200px;
+	margin-left:20px;
+	position:absolute;
+	width:750px;
+	height:540px;
+	border-radius:20px;
+}
+#bottombar h1{
+	text-align:center;
+	font-size:38px;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+}
+#left{
+	
+	height:400px;
+	width:35%;
+	float:left;
+}
+#right{
+	height:400px;
+	width:65%;
+	float:right;
+}
+#left img{
+	margin-left:30px;
+	
+}
+#bottombar #right #box{
+	background-color:#EEEEEE;
+	height:150px;
+	width:430px;
+	border:#000 1px solid;
+	
+}
+#copyright{
+	width:auto;
+	height:50px;
+	
+	
+}
+#copyright h3{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	margin-left:180px;
+	margin-top:20px;
+	color:#000;
+	position:relative;
+	margin-top:50px;
+}
